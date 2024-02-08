@@ -1,2 +1,4 @@
 "Hello, this is my first file in Git" 
 "This is a modification" 
+"c'est Nada Khelif "
+"This is My Modification "
